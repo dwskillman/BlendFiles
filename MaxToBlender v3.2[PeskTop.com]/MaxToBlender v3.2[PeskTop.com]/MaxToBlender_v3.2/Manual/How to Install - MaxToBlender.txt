@@ -1,0 +1,25 @@
+MaxToBlender - How to install:
+----------------------------------------------------------------
+
+1) Place the content of the folders on each program folder.
+
+Copy the content of "To 3DsMax Scripts Folder" to:
+	(Your 3Ds Max Folder)\Scripts
+
+For Blender 2.8x:
+Copy the content of "To Blender 2.8x Addons Folder" to:
+	(Your Blender 2.80 Folder)\scripts\addons
+
+2) In 3ds Max You can find the button in 3DsMax customize toolbar,
+Category: MaxToBlender
+
+In Blender add the addonn MaxToBlender in the user preferences,
+you can access the menu now from File -- Import menu.
+
+----------------------------------------------------------------
+NOTE:
+If problems in export you can try running 3dsmax in admin mode.
+----------------------------------------------------------------
+
+Thanks,
+http://www.3dtoall.com
