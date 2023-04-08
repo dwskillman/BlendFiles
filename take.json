@@ -1,0 +1,14 @@
+{
+  "subject" : "iPhone",
+  "version" : 1,
+  "slate" : "MySlate",
+  "startTimecode" : "08:11:19:16.327",
+  "calibrated" : false,
+  "identifier" : "20230406_MySlate_1",
+  "date" : "2023-04-07T01:15:08Z",
+  "deviceModel" : "iPhone14,8",
+  "frames" : 1212,
+  "appVersion" : "v1.2.1 (build 1)",
+  "endTimecode" : "08:11:39:34.253",
+  "take" : 1
+}
