@@ -1,14 +1,23 @@
 {
-  "subject" : "iPhone",
-  "version" : 1,
-  "slate" : "MySlate",
-  "startTimecode" : "08:11:19:16.327",
   "calibrated" : false,
-  "identifier" : "20230406_MySlate_1",
-  "date" : "2023-04-07T01:15:08Z",
+  "startTimecode" : "11:54:29:19.804",
+  "identifier" : "20241211_MySlate_1",
+  "take" : 1,
+  "frames" : 678,
+  "date" : "2024-12-11T21:02:41Z",
+  "videoTargetFrameRate" : 60,
   "deviceModel" : "iPhone14,8",
-  "frames" : 1212,
-  "appVersion" : "v1.2.1 (build 1)",
-  "endTimecode" : "08:11:39:34.253",
-  "take" : 1
+  "endTimecode" : "11:54:40:37.884",
+  "version" : 1,
+  "subject" : "iPhone",
+  "startTimestamp" : {
+    "timescale" : 1000000000,
+    "value" : 474869330070726
+  },
+  "slate" : "MySlate",
+  "appVersion" : "v1.3.2 (build 99)",
+  "endTimestamp" : {
+    "value" : 474880631406169,
+    "timescale" : 1000000000
+  }
 }
